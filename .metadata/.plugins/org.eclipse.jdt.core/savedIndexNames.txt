@@ -1,0 +1,7 @@
+INDEX VERSION 1.132+C:\Users\Dell\Downloads\Telegram Desktop\smartcityspring\smartcityspring\.metadata\.plugins\org.eclipse.jdt.core
+3608909898.index
+2025544316.index
+1865797976.index
+3435648363.index
+2472764288.index
+2043727593.index
